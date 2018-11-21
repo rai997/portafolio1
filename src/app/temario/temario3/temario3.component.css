@@ -1,0 +1,18 @@
+.container-fluid {
+	display: fixed;
+	background:  rgb(213, 255, 250);
+	height: 100%;
+	width: 100%
+  }
+.row{
+    height: 100%;
+}
+.contenido_sec{
+	background-color: white;
+}
+
+.contenido_main{
+	background-color: #F6FEFD;
+height: 100%
+}
+h1{text-align: center}

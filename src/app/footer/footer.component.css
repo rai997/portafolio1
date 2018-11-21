@@ -1,0 +1,11 @@
+footer{
+    position:fixed;
+      
+      bottom:0;
+      height:30px;
+      width:100%;
+      background:rgb(153, 153, 153, 0.1);
+       border:100px;
+       border-color: black;
+   
+   }

@@ -1,0 +1,27 @@
+
+nav{
+    background-color: rgb(236, 244, 255);
+    width: 100%;
+    
+}
+.dropdown-menu{
+    background-color:rgb(236, 244, 255);
+        
+}
+.nav-item a:hover {
+    cursor: pointer;
+     background-color: rgba(0, 47, 255, 0.3);
+     margin-top: 0px;
+     margin-left: 0px;
+     margin-right: 0px;
+     border-radius: 10%;
+}
+.active{
+    cursor: pointer;
+    background-color: rgba(0, 47, 255, 0.3);
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    border-radius: 10%;
+    color: black;
+}
